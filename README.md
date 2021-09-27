@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @joeschmoflo
+- 👀 I’m interested in bots, scripting and front-end mockups
+- 🌱 I’m currently learning web and mobile programming
+- 💞️ I’m looking to collaborate on potential projects involving creating a bootable program
+- 📫 Reach me by emailing joeschmoflo@joeschmo.xyz
