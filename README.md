@@ -16,13 +16,10 @@
 
 <!-- Socials -->
 
-<div align="center" style="display: flex; justify-content: space-between;">
-   
-    <a href="https://www.linkedin.com/in/jacobpinchook">
-        <img src="https://imgur.com/IdhliN5.png" width="40" height="40" alt="Jacob's LinkedIn Profile">
-    </a>
-    <a href="https://open.spotify.com/user/kuabsnz43myhxext1652831e7?si=ELSQNufATIyT33VoobBwCw">
-        <img src="https://imgur.com/A20TvSR.png" width="40" height="40" alt="Jacob's Discord Profile">
+<!-- <div align="center" style="display: flex; justify-content: space-between;">
+
+   <a href="https://discordapp.com/users/296812519920762880">
+        <img src="https://imgur.com/pTVQ2dz.png" width="40" height="40" alt="Jacob's Discord Profile">
     </a>
     
-<div>
+<div> -->
