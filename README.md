@@ -8,7 +8,7 @@
 
 👀 I’m interested in new frameworks, scripting and fun projects
 
-🤹 Playing with **Python** & **Node.js**
+🤹 Playing with the **MERN** stack
 
 <br />
 <br />
