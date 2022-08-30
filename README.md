@@ -6,7 +6,7 @@
 
 🌱 I’m currently expanding my knowledge of JavaScript
 
-👀 I’m interested in new frameworks, scripting and fun projects
+👀 I’m interested in full stack applications, game development and e-commerce
 
 🤹 Playing with the **MERN** stack
 
