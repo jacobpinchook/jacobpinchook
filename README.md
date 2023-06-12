@@ -2,6 +2,8 @@
 
 # Hi, I'm Jacob Pinchook 👋
 
+👨‍💻 Junior Software Developer
+
 🧑‍🎓 BS of Computer Science: Software Engineering
 
 🌱 I’m currently expanding my knowledge of JavaScript
