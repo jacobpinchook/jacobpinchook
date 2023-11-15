@@ -2,11 +2,11 @@
 
 # Hi, I'm Jacob Pinchook 👋
 
-👨‍💻 Junior Software Developer
+👨‍💻 Full Stack Software Developer
 
 🧑‍🎓 BS of Computer Science: Software Engineering
 
-🌱 I’m currently expanding my knowledge of JavaScript
+🌱 I’m currently expanding my knowledge of JavaScript & React
 
 👀 I’m interested in full stack applications, APIs and e-commerce
 
