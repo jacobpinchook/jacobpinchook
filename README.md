@@ -2,7 +2,7 @@
 
 # Hi, I'm Jacob Pinchook 👋
 
-👨‍💻 Full Stack Software Developer
+👨‍💻 Full Stack Software Engineer
 
 🧑‍🎓 BS of Computer Science: Software Engineering
 
