@@ -2,8 +2,6 @@
 
 # Hi, I'm Jacob Pinchook 👋
 
-👨‍💻 Software Engineer
-
 🧑‍🎓 BS of Computer Science: Software Engineering
 
 🌱 I’m currently expanding my knowledge of JavaScript & React
